@@ -1,1 +1,1 @@
-# Jogo-Pong
+# Projetos de estudo em sala de aula
