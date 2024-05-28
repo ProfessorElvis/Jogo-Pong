@@ -1,1 +1,1 @@
-# Projetos de estudo em sala de aula
+# Projetos de estudo
